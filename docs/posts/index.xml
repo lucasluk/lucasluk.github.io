@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on LucasLuk&#39;s Blog</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on LucasLuk&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 31 Aug 2020 18:22:03 +0800</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>根据 Promise/A&#43; 规范实现一个 Promise 库</title>
+      <link>http://example.org/posts/achieve-a-promise-a-plus-library/</link>
+      <pubDate>Mon, 31 Aug 2020 18:22:03 +0800</pubDate>
+      
+      <guid>http://example.org/posts/achieve-a-promise-a-plus-library/</guid>
+      <description>根据 Promise/A+ 规范实现一个 Promise 库 背景 Promise 不是什么新鲜事物，相信大家对下面这段代码不会陌生。
+var promise = new Promise(function (resolve, reject) { resolve() })  // 施工中&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
