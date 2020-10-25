@@ -6,27 +6,8 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Mon, 31 Aug 2020 18:22:03 +0800</lastBuildDate>
     
         <atom:link href="https://lucasluk.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    
-        <item>
-        <title>根据 Promise/A&#43; 规范实现一个 Promise 库</title>
-        <link>https://lucasluk.github.io/posts/achieve-a-promise-a-plus-library/</link>
-        <pubDate>Mon, 31 Aug 2020 18:22:03 +0800</pubDate>
-        
-        <guid>https://lucasluk.github.io/posts/achieve-a-promise-a-plus-library/</guid>
-        <description>LucasLuk Blog https://lucasluk.github.io/posts/achieve-a-promise-a-plus-library/ -&lt;h1 id=&#34;根据-promisea-规范实现一个-promise-库&#34;&gt;根据 Promise/A+ 规范实现一个 Promise 库&lt;/h1&gt;
-&lt;h2 id=&#34;背景&#34;&gt;背景&lt;/h2&gt;
-&lt;p&gt;Promise 不是什么新鲜事物，相信大家对下面这段代码不会陌生。&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;background-color:#eed;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-javascript&#34; data-lang=&#34;javascript&#34;&gt;&lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;var&lt;/span&gt; promise = &lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;new&lt;/span&gt; &lt;span style=&#34;color:#658b00&#34;&gt;Promise&lt;/span&gt;(&lt;span style=&#34;color:#8b008b;font-weight:bold&#34;&gt;function&lt;/span&gt; (resolve, reject) {
-    resolve()
-})
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;// 施工中&amp;hellip;&lt;/p&gt;
-- https://lucasluk.github.io/posts/achieve-a-promise-a-plus-library/ - This is a customized copyright.</description>
-        </item>
     
     
   </channel>
